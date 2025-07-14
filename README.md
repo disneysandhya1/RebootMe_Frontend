@@ -67,9 +67,3 @@ Scan the QR code with the **Expo Go** app to view it on your phone.
 
 ---
 
-📜 License
-
-This project is licensed under the MIT License.
-
-````
-
