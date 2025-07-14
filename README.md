@@ -70,14 +70,14 @@ uvicorn app:app --reload
 ---
 
 ### 📁 Folder Structure
-
+```
 workwell/
 ├── app.py                # Main backend application
 ├── utils.py              # Helper functions (quotes, tips, etc.)
 ├── data/                 # JSON files for quotes, stretches, tips
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
-
+```
 ---
 
 ### ⚙️ Technologies
