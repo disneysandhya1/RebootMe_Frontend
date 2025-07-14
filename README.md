@@ -100,7 +100,7 @@ workwell/
 
 
 ```
-RebootMe – Frontend
+**### RebootMe – Frontend**
 
 🚀 RebootMe is a mental wellness mobile application built with React Native and Expo, designed to help users maintain better mental health, hydration, and daily mindfulness through regular prompts and check-ins.
 
@@ -108,7 +108,7 @@ This repository contains the **frontend code** for the RebootMe app.
 
 ---
 
-🌟 Features
+**### 🌟 Features**
 
 - 💧 Water Tracker: Log your daily water intake.
 - 😊 Mood Check-in: Choose how you feel and receive a wellness suggestion.
