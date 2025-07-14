@@ -15,13 +15,13 @@ This repository contains the **frontend code** for the RebootMe app.
 
 ## 🌟 Features
 
-- 💧 **Water Tracker**: Log your daily water intake.
-- 😊 **Mood Check-in**: Choose how you feel and receive a wellness suggestion.
-- 🙆 **Stretch Reminders**: Random stretch prompts on app open.
-- 👁️ **Eye Break Alerts**: Encourages a 20-second eye break every 40 minutes.
-- ✨ **Motivational Quotes**: Daily mental wellness quotes.
-- 🔔 **Push Notifications**: Timed reminders for wellness actions.
-- 📅 **Streak Tracker**: Tracks your consistent daily engagement.
+- 💧 Water Tracker: Log your daily water intake.
+- 😊 Mood Check-in: Choose how you feel and receive a wellness suggestion.
+- 🙆 Stretch Reminders: Random stretch prompts on app open.
+- 👁️ Eye Break Alerts: Encourages a 20-second eye break every 40 minutes.
+- ✨ Motivational Quotes: Daily mental wellness quotes.
+- 🔔 Push Notifications: Timed reminders for wellness actions.
+- 📅 Streak Tracker: Tracks your consistent daily engagement.
 
 ---
 
