@@ -120,8 +120,9 @@ This repository contains the **frontend code** for the RebootMe app.
 
 ---
 
-📂 Folder Structure
+### 📂 Folder Structure
 ```
+
 RebootMeApp/
 ├── assets/
 ├── app/                  # Main screens and components
@@ -130,7 +131,6 @@ RebootMeApp/
 ├── package.json
 └── ...
 ````
-
 ---
 
 🛠️ Installation & Running Locally
