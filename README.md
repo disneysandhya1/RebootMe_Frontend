@@ -1,50 +1,96 @@
-# Welcome to Expo app 👋
+Here’s a professional and concise **`README.md`** file for your **RebootMe\_Frontend** repository:
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+### ✅ `README.md` for `RebootMe_Frontend`
 
-1. Install dependencies
+```markdown
+# RebootMe – Frontend
 
-   ```bash
-   npm install
-   ```
+🚀 **RebootMe** is a mental wellness mobile application built with **React Native** and **Expo**, designed to help users maintain better mental health, hydration, and daily mindfulness through regular prompts and check-ins.
 
-2. Start the app
+This repository contains the **frontend code** for the RebootMe app.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🌟 Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 💧 **Water Tracker**: Log your daily water intake.
+- 😊 **Mood Check-in**: Choose how you feel and receive a wellness suggestion.
+- 🙆 **Stretch Reminders**: Random stretch prompts on app open.
+- 👁️ **Eye Break Alerts**: Encourages a 20-second eye break every 40 minutes.
+- ✨ **Motivational Quotes**: Daily mental wellness quotes.
+- 🔔 **Push Notifications**: Timed reminders for wellness actions.
+- 📅 **Streak Tracker**: Tracks your consistent daily engagement.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📂 Folder Structure
 
-When you're ready, run:
-
-```bash
-npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+RebootMeApp/
+├── assets/
+├── app/                  # Main screens and components
+├── App.js                # Entry point (optional if using \_layout.tsx)
+├── app.json              # App config for Expo
+├── package.json
+└── ...
 
-## Learn more
+````
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🛠️ Installation & Running Locally
 
-## Join the community
+### Prerequisites:
 
-Join our community of developers creating universal apps.
+- Node.js & npm
+- Expo CLI: `npm install -g expo-cli`
+- Expo Go app (for mobile preview)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Steps:
+
+```bash
+git clone https://github.com/disneysandhya1/RebootMe_Frontend.git
+cd RebootMeApp
+npm install
+npx expo start
+````
+
+* Scan the QR code with the **Expo Go** app to view it on your phone.
+
+---
+
+## 🔗 Related Repositories
+
+* 🔧 [RebootMe Backend (Python)](https://github.com/disneysandhya1/Rebootme)
+
+---
+
+## 👩‍💻 Author
+
+**Disney Sandhya**
+[LinkedIn](https://www.linkedin.com/in/disney-sandhya-gandikoda)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+````
+
+---
+
+### ✅ Next Steps:
+1. Save this content in a file named `README.md` in your `RebootMeApp` folder.
+2. Then push it:
+
+```bash
+git add README.md
+git commit -m "Added project README"
+git push origin main
+````
+
+Would you like a custom `app icon`, `splash screen`, or even GitHub Action workflows added too?
