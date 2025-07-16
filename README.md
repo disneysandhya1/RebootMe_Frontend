@@ -1,4 +1,3 @@
-```
 RebootMe – Frontend
 
 🚀 RebootMe is a mental wellness mobile application built with React Native and Expo, designed to help users maintain better mental health, hydration, and daily mindfulness through regular prompts and check-ins.
@@ -60,7 +59,7 @@ Scan the QR code with the **Expo Go** app to view it on your phone.
 
 ## 👩‍💻 Author
 
-**Disney Sandhya**
+Disney Sandhya
 [LinkedIn](https://www.linkedin.com/in/disney-sandhya-gandikoda)
 
 ---
