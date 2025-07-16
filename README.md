@@ -19,7 +19,6 @@ This repository contains the **frontend code** for the RebootMe app.
 ---
 
 📂 Folder Structure
-
 RebootMeApp/
 ├── assets/
 ├── app/                  # Main screens and components
@@ -27,7 +26,6 @@ RebootMeApp/
 ├── app.json              # App config for Expo
 ├── package.json
 └── ...
-
 ---
 
 🛠️ Installation & Running Locally
